@@ -1,0 +1,11 @@
+c78dcdc5870f9955038e7fc56c3b3685 *DESCRIPTION
+034c3960da4494d3b2e654f95994edc1 *NAMESPACE
+01688b8f79b42525446ba8a3ebfa4301 *R/ihclust.R
+40760314725617bb3a0c485927721eb7 *R/opioidData.R
+7750ffff3ee2df748442afb303de8768 *R/simcurve.R
+87506e9845c4bc10c8cb5c54c8529339 *R/testchange.R
+ca05b6a9258cd5e3bfaefc995fdac471 *data/opioidData.rda
+9d6b24d318742198d1a8e65559c34264 *man/ihclust.Rd
+1abd21993514742721eaa14a34549c66 *man/opioidData.Rd
+eea7059b8fa0f77d050356e11099a229 *man/simcurve.Rd
+c9d9f7486f3fda6f8ca9b27e83ef364b *man/testchange.Rd
